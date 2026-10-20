@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-1224-add-a-pre-launch-waitlist-feature-for-upcoming",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-1224-add-a-pre-launch-waitlist-feature-for-upcoming": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-1224-add-a-pre-launch-waitlist-feature-for-upcoming",
+    "origin"
+  ]
+}
